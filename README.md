@@ -14,7 +14,7 @@ Storage | 32GB
 MicroSD | microSDXC (dedicated slot)
 Battery | 800 mAh (non-removable)
 Dimensions | 96.6 x 50.6 x 7.4 mm (3.80 x 1.99 x 0.29 in)
-Display | 7720 x 1280 pixels, 16:9 ratio (~445 ppi density)
+Display | 720 x 1280 pixels, 16:9 ratio (~445 ppi density)
 Rear Camera  | 12 MP, AF
 Front Camera | 8 MP
 Release Date | October 2018
